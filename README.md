@@ -1,4 +1,12 @@
-# Junkiex
+# [![JunkieX Logo](https://dl.dropboxusercontent.com/u/20643759/junkiex_new_logo_lines.png)](https://junkiex.herokuapp.com) Junkie  [![Build Status](https://semaphoreci.com/api/v1/leomilrib/junkiex/branches/master/badge.svg)](https://semaphoreci.com/leomilrib/junkiex)
+
+The Elixir/Phoenix version from the [simple Sinatra APP](https://github.com/leomilrib/junkie) to check open Pull Requests on your organizations in one place
+
+## Using it
+You can use it by [accessing my herokuapp](http://junkiex.herokuapp.com/) version. Please keep it in mind it is running on a free Heroku app, so not so _performatic_. Have some patience.
+
+## Getting your own
+You can run it on your machine or sever by follwing this steps:
 
 To start your Phoenix app:
 
