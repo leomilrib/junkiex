@@ -9,6 +9,7 @@ defmodule Junkiex.Endpoint do
   # when deploying your static files in production.
   plug Plug.Static,
     at: "/", from: :junkiex, gzip: false,
+    # junkiex.appcache
     only: ~w(css fonts images js favicon.ico robots.txt)
 
   # Code reloading can be explicitly enabled under the
