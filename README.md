@@ -1,4 +1,4 @@
-# [![JunkieX Logo](https://dl.dropboxusercontent.com/u/20643759/junkiex_new_logo_lines.png)](https://junkiex.herokuapp.com) Junkie  [![Build Status](https://semaphoreci.com/api/v1/leomilrib/junkiex/branches/master/badge.svg)](https://semaphoreci.com/leomilrib/junkiex)
+# [![JunkieX Logo](https://dl.dropboxusercontent.com/u/20643759/junkiex_new_logo_lines.png)](https://junkiex.herokuapp.com) Junkiex [![Build Status](https://semaphoreci.com/api/v1/leomilrib/junkiex/branches/master/badge.svg)](https://semaphoreci.com/leomilrib/junkiex)
 
 The Elixir/Phoenix version from the [simple Sinatra APP](https://github.com/leomilrib/junkie) to check open Pull Requests on your organizations in one place
 
