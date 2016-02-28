@@ -34,7 +34,7 @@ defmodule Junkiex.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_junkiex_key",
-    signing_salt: "Rf823KiO"
+    signing_salt: (System.get("SESSION_SECRET") || "this is session secret")
 
   plug Junkiex.Router
 end
